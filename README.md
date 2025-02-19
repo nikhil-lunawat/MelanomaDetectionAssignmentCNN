@@ -6,7 +6,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies or Platform Used](#technologies-or-platform-used)
+* [Model Building](#model-building)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -27,7 +28,7 @@
   C. Fitting and evaluating the model
 - Predict on image from Test dataset
 
-## Technologies / Platform Used
+## Technologies or Platform Used
 Project is executed on
 
 - Ubuntu 24.04
@@ -105,7 +106,7 @@ The above analysis and model on bike renting gives below data points-
 2. Ranomly selected image with Melanoma symptoms correctly predicted with model
 3. Prediction on 1 sample of each symptom is very close to actual classification.
 
-## Conclusion
+## Conclusions
 - 3 models are built
 - Because of limited images, simple model was overfitted
 - After applying augmentation strategy in CNN model layer, overfitting issue was overcome, but model was underfit
